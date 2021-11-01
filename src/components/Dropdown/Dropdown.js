@@ -89,7 +89,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://avatars.githubusercontent.com/u/62001513?v=4"
+          href="https://smallpdf.com/pdf-reader?job=1635765771317"
           target="_blank"
           rel="noopener noreferrer"
         >
