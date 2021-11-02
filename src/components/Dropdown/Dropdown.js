@@ -89,7 +89,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://docs.google.com/document/d/10qxMtQAmlfX9cn0CCcmd1hx43Q8V7_UTfRV21iGHVrs"
+          href="./resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
