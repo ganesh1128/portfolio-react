@@ -73,8 +73,5 @@ export const stackList = [
     img: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
     name: "React",
   },
-  {
-    img: "https://www.svgrepo.com/show/41621/responsive-devices.svg",
-    name: "Responsive",
-  },
+  
 ];
