@@ -5,7 +5,7 @@ export const ProjectList = [
     title: "Stack Overflow-clone",
     description: "Full Stack Stack Overflow clone is a question and answer website for professional and enthusiast programmers.",
     tech_stack: "Node js,Express js,Mongoose,React js,Next js",
-    github_url: "https://github.com/ganesh2328/clone-of-stackover-flow-client",
+    github_url: "https://github.com/ganesh2328/clone-of-stackover-flow-server",
     demo_url: "https://ganesh-stackoverflow-clone.netlify.app",
   },
   {
